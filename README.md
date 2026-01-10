@@ -1,7 +1,4 @@
-# Website
-
-My website that shows my projects
-
+This is a safe place ... Here have a bnny. 🐰
 <!--
 **nmo-bnny/nmo-bnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
